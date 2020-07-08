@@ -1,3 +1,3 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|KimYeong-su|https://github.com/KimYeong-su/sos-masters/|
+|KimYeong-su|https://github.com/KimYeong-su/|
